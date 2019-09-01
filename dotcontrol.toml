@@ -1,0 +1,6 @@
+sync_type = "local"
+
+[dots."~/works/playground/.testrc"]
+type = "file"
+last_sha1_check = 1567351535
+sha1 = "da39a3ee5e6b4b0d3255bfef95601890afd80709"

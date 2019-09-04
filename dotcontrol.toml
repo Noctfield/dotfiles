@@ -1,4 +1,5 @@
-sync_type = "local"
+sync_type = "git"
+sync_remote = "https://github.com/mwoyuan/dotfiles.git"
 
 [dots."~/works/playground/.testrc"]
 type = "file"
